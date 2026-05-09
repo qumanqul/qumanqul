@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John 👋</h1>
+<h1 align="center">Hi, I'm Dmitrii 👋</h1>
 
 <p align="center">
   <b>Backend & Full-Stack Developer</b> · Java · Spring Boot · React · Python
