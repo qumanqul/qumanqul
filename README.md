@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Gdańsk, Poland &nbsp;|&nbsp; 🎓 B.Eng CS (Web Dev) — PJATK, June 2026 &nbsp;|&nbsp; 🔍 Open to Junior roles
+  📍 Gdańsk, Poland &nbsp;|&nbsp; 🎓 B.Eng CS (Web Dev) — PJATK, June 2026 &nbsp;|&nbsp; 🔍 Open to Java Backend role
 </p>
 
 <p align="center">
